@@ -1,3 +1,2 @@
 #!/bin/bash/python3
-PYFILE = "0-run.py"
 python3 $PYFILE
